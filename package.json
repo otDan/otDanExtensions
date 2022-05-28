@@ -4,9 +4,9 @@
   "repositoryName": "otDan's Extensions (0.6)",
   "description": "otDan's Extensions for 0.6!",
   "main": "index.js",
-  "homepage": "https://xonlyfadi.github.io/xonlyfadi-extensions/",
-  "GITHUB_REPOSITORY": "https://github.com/xOnlyFadi/xonlyfadi-extensions",
-  "baseURL": "https://xonlyfadi.github.io/xonlyfadi-extensions/",
+  "homepage": "https://otdan.github.io/otDanExtensions/",
+  "GITHUB_REPOSITORY": "https://github.com/otDan/otDanExtensions",
+  "baseURL": "https://otdan.github.io/otDanExtensions/",
   "scripts": {
     "bundle": "paperback bundle",
     "serve": "paperback serve",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xOnlyFadi/xonlyfadi-extensions.git"
+    "url": "git+https://github.com/otDan/otDanExtensions.git"
   },
   "author": "Paperback Community",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/xOnlyFadi/xonlyfadi-extensions/issues"
+    "url": "https://github.com/otDan/otDanExtensions/issues"
   },
   "devDependencies": {
     "@types/chai": "^4.2.21",
